@@ -1,0 +1,2 @@
+sudo wget -O /var/www/html/ipxe/vmlinuz http://archive.ubuntu.com/ubuntu/dists/jammy/main/installer-amd64/current/images/netboot/ubuntu-installer/amd64/linux
+sudo wget -O /var/www/html/ipxe/initrd.img http://archive.ubuntu.com/ubuntu/dists/jammy/main/installer-amd64/current/images/netboot/ubuntu-installer/amd64/initrd.gz
